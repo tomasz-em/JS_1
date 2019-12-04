@@ -10,7 +10,7 @@ ___
 * komunikacja - wyświetlanie wiadomości oraz stanu poprzez `alert()`  
 * użycie `prompt()` jako mechanizmu oczytu danych (pobrania parametrów wejściowych od użytkownika)
 
-**Użyte metody to nie są konstrukcje JavaScriptu, ale udostępnionego środowiska przeglądarki!**
+**Użyte metody nie są konstrukcjami JavaScriptu, ale udostępnionego środowiska przeglądarki!**
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 ___
 
-## Zadanie 4 - 
+## Zadanie 4 - warunkowe formatowanie dla wyświetlanych elementów tablicy
 > Stwórz tablicę z liczbami i słowami (dowolnej wielkości). Napisz funkcję, która wypisze zawartość tablicy na stronie internetowej (każdy element w nowym wierszu) w ten sposób, że liczby będą miały kolor niebieski, a pozostałe wyrażenia kolor zielony.
 
 > [podpowiedź](https://codepen.io/beatabarbara/pen/qBBqNRR)
@@ -50,7 +50,7 @@ ___
 
 ____
 
-## Zadanie 5 - 
+## Zadanie 5 - test yorka
 > Test „yorka” - tj. stworzyć stronę internetową z wybranym obrazkiem oraz inputem. Pobraną wartość z inputa porównuje się z wartością wzorcową i w zależności od odpowiedzi pokazuje się czerwony komunikat jeżeli odpowiedź była błędna, lub też na zielono informacja o prawidłowej odpowiedzi.
 
 [Rozwiązanie dla problemu #5 (codepen)](https://codepen.io/tomasz_m/pen/dyPPRVd)
